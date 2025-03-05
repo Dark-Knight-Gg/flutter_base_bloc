@@ -1,0 +1,20 @@
+{
+  "@@locale": "en",
+  "ok": "OK",
+  "send": "Send",
+  "cancel": "Cancel",
+  "agree": "Agree",
+  "close": "Close",
+  "yes": "Yes",
+  "no": "No",
+  "next": "Next",
+  "retry": "Retry",
+  "failure": "Failure",
+  "success": "Success",
+  "error": "Error",
+  "empty": "Empty",
+  "load_more": "Load more",
+  "no_more_data": "No more data!",
+  "data_not_found": "Data not found!",
+  "something_went_wrong": "Something went wrong!"
+}

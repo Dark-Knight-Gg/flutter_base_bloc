@@ -1,0 +1,20 @@
+{
+  "@@locale": "vi",
+  "ok": "Đồng ý",
+  "send": "Gửi",
+  "cancel": "Hủy",
+  "agree": "Đồng ý",
+  "close": "Đóng",
+  "yes": "Có",
+  "no": "Không",
+  "next": "Tiếp",
+  "retry": "Thử lại",
+  "failure": "Thất bại",
+  "success": "Thánh công",
+  "error": "Lỗi",
+  "empty": "Không có dữ liệu",
+  "load_more": "Tải thêm",
+  "no_more_data": "Không còn dữ liệu nữa!",
+  "data_not_found": "Không tìm thấy dữ liệu!",
+  "something_went_wrong": "Có lỗi gì đó đã xảy ra!"
+}
