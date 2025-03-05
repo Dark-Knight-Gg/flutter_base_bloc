@@ -1,6 +1,7 @@
 import 'package:flutter_base_bloc/core/page/base_page.dart';
 
 import '../bloc/base_list_bloc.dart';
+import '../mixin/list_page_mixin.dart';
 
 class BaseListStatelessWidget<V, C extends BaseListCubit<V>>
     extends BaseStatelessWidget<V, C> with BaseListPageMixin<V, C> {

@@ -12,5 +12,5 @@ export 'toast/toast_event.dart';
 export 'widget/space_widget.dart';
 export 'page/base_page.dart';
 export 'page/base_list_page.dart';
-export 'extension/context_ext.dart';
-export 'extension/string_ext.dart';
+export 'extensions/context_ext.dart';
+export 'extensions/string_ext.dart';
